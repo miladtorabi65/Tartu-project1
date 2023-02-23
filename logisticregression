@@ -14,7 +14,7 @@ import math
 # i have historical data from previous applicants that i can use as a training set for logistic regression.
 # For each training example, i have the applicant’s scores on two exams and the admissions decision.
 # my task is to build a classification model that estimates an applicant’s probability of admission based on the scores from those two exams.
-#oading and visualizing the data
+#loading and visualizing the data
 # i commence with loading the dataset for this task.
 # The load_dataset() function shown below loads the data into variables X_train and y_train
 # X_train contains exam scores on two exams for a student
